@@ -66,7 +66,7 @@ module.exports = {
         {name: 'ember-cli-mocha', target: '^0.13.0'},
         {name: 'ember-hook', target: '^1.3.5'},
         {name: 'ember-sinon', target: '^0.6.0'},
-        {name: 'ember-test-utils', target: '^1.3.2'}
+        {name: 'ember-test-utils', target: '^4.0.0'}
       ]
     }
 
