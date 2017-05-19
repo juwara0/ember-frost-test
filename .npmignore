@@ -8,7 +8,7 @@
 .editorconfig
 .ember-cli
 .eslintignore
-.eslintrc
+.eslintrc.js
 .gitignore
 .jshintrc
 .pullapprove.yml
